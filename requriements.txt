@@ -4,10 +4,10 @@ django-classy-tags==0.8.0
 django-mptt==0.8.7
 django-nyt==1.0
 django-sekizai==0.10.0
-html5lib==0.9999999
 Markdown==2.6.11
 Pillow==5.2.0
 pytz==2018.5
 six==1.11.0
 sorl-thumbnail==12.5.0
-wiki==0.3.1
+#wiki==0.3.1
+git+git://github.com/gmaclinuxer/django-wiki.git@releases/0.3.x_itsm
